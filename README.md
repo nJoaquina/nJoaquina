@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF00FF&size=45&center=true&vCenter=true&width=600&height=100&lines=+Joaquina+Nogueira🌸&alt="Typing SVG">
 -->
   <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Joaquina+Nogueira🌸&font=Pacifico&center=true&width=650&height=120&color=%23FF00F&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Joaquina+Nogueira🌸&font=Pacifico&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45%22"></a>
 </p>
   <!-- Snake Game -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
