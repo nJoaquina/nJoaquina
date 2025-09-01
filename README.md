@@ -12,11 +12,12 @@
   <a href="https://github.com/fairyland0926">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira🌸/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45&pause=1000">
   </a>
-</p>
+
   <!-- Snake Game -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
        alt="Snake Game"
        style="margin-top: 10px;" />
+</p>
 </div>
 
 <!--h1 without bottom border-->
