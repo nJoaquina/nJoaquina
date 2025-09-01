@@ -10,7 +10,7 @@
   -->
   <p align="center">
   <a href="https://github.com/fairyland0926">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira🌸/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=60">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira🌸/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=55">
   </a>
 </p>
   <!-- Snake Game -->
