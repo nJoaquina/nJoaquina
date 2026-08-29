@@ -55,6 +55,10 @@
   <a href="https://discordapp.com/users/698630845069656074" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" />
   </a>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" />
+  </a>
 </p>
 
 
