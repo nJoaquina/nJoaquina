@@ -14,12 +14,12 @@
   <p align="center">
   <a href="https://github.com/fairyland0926">   
 
-   
+<!--   
    <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira☕/>&font=Courier+New&center=true&width=650&height=120&color=%2332CD32&vCenter=true&size=45&pause=1000"> 
+-->
 
-<!--
 <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira ☕/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45&pause=1000">
-  -->
+  
   <!-- Snake Game -->
  
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
@@ -29,19 +29,21 @@
 </p>
 </div>
 
-<!--h1 without bottom border-->
+<!--
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologias que uso👩‍💻</h2></summary>
   </ul>
 </div> 
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,c,html,css,js,java,ruby,python,vuejs,flask,eclipse,docker,linux,kali,sublime,vscode,discord,notion&perline=14" />
   </a>
 </p>
+
+-->
 
 <!-- Connect with me -->
 
