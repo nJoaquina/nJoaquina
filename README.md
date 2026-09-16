@@ -1,5 +1,5 @@
-  <!-- Si quiero activar el inicio borrar aca 
-<div align="center"> --> // borrrar aca "--> "
+
+<div align="center"> 
   <!-- Texto animado -->
 <!--  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF00FF&size=45&center=true&vCenter=true&width=600&height=100&lines=+Joaquina+Nogueira🌸&alt="Typing SVG">
@@ -9,42 +9,41 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Joaquina+Nogueira🌸&font=Pacifico&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45%22"></a>
 </p>  //Courier+New, Jersey+15 <-- opcion letras
   -->
-  <!-- //BORRAR ACA
+  
   <p align="center">
-  <a href="https://github.com/fairyland0926">   --> //BORRAR ACA " -->"
+  <a href="https://github.com/fairyland0926">   
    <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira☕/>&font=Courier+New&center=true&width=650&height=120&color=%2332CD32&vCenter=true&size=45&pause=1000"> -->
 
-<!-- BORRAR ACA 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira --> BORRAR ACA " -->" ☕/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45&pause=1000">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+<Joaquina+Nogueira ☕/>&font=Courier+New&center=true&width=650&height=120&color=%23FF00FF&vCenter=true&size=45&pause=1000">
   
   <!-- Snake Game -->
-  <!-- BORRAR ACA 
+ 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?"
        alt="Snake Game"
        style="margin-top: 10px;" />
 </a>
 </p>
 </div>
---> BORRAR ACA "-->"
+
 <!--h1 without bottom border-->
-<!-- BORRAR ACA
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologias que uso👩‍💻</h2></summary>
   </ul>
-</div> --> BORRAR ACA "-->"
+</div> 
 <!--tech stack icons-->
-<!-- BORRAR ACA 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,c,html,css,js,java,ruby,python,vuejs,flask,eclipse,docker,linux,kali,sublime,vscode,discord,notion&perline=14" />
   </a>
-</p> --> BORRAR ACA "-->"
+</p>
 
 <!-- Connect with me -->
-<!--BORRAR ACA 
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contacto📲 </h3>
---> BORRAR ACA "-->"
+
 <!--icons and links
 <p align="center">
 <a href="https://www.linkedin.com/in/joaquina-nogueira-a8575b274/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -53,7 +52,7 @@
   
 </p>
 -->
-<!-- BORRAR ACA
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joaquina-nogueira-a8575b274/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" />
@@ -70,7 +69,6 @@
 </a>
 </p>
 
---> BORRAR ACA "-->" 
 
 
 
